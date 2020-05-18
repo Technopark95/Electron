@@ -1,0 +1,115 @@
+.intro {
+    font-size: 150%;
+    color: red;
+    transition-duration: 100ms;
+  }
+
+
+  .normal {
+color: aliceblue;
+      font-size: 150%;
+    transition-duration: 100ms;
+  }
+
+  .back {
+     
+    background-image: url("cu.jpg");
+    
+     
+  }
+
+
+  .maindiv  {
+
+
+      width: 100%;
+      height: 100px;
+      margin-top: -10%;
+      opacity: 1%;
+      background-color: rgba(0, 0, 0, 0.616);
+      opacity: 100%;
+  }
+
+  .showrate {
+
+      width: 400px;
+      height: 100px;
+ 
+    margin-left: 200px;
+      background-color: rgb(250, 0, 104);
+      opacity: 100%;
+      font-family:Segoe UI;
+      color: white;
+      
+      font-size: 200%;
+  
+  }
+
+  .torate {
+
+    width: 400px;
+      height: 100px;
+   
+      margin-left: 800px;
+      margin-top: 17px;
+      background-color: rgb(233, 233, 233);
+      opacity: 100%;
+      font-family:Segoe UI;
+      color: black;
+      
+      font-size: 200%;
+  
+  }
+
+  ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333333;
+
+}
+
+li {
+float: left;
+
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 40px;
+text-decoration: none;
+
+}
+
+li a:hover {
+background-color: #111111;
+}
+
+#mainp {
+
+  border-color: black transparent transparent transparent;
+opacity:0%;
+transition-duration: 1000ms;
+
+
+
+}
+
+
+#amount {
+
+
+  height:  300px;
+  width:  100%;
+  font-size: 550%;
+border: 0px;
+  background-color: rgba(0, 0, 0, 0.678);
+
+color: white;
+opacity: 0%;
+visibility: hidden;
+}
+
