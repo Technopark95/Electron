@@ -6,7 +6,7 @@ $ npm install --save jquery
 
 
 
-Bootstrap is #OPTIONAL# (Use Git to install bower)
+Bootstrap (Use Git to install bower)
 
 $ npm install -g bower
 
