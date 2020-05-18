@@ -1,6 +1,6 @@
-# Electron
+# Currency Conversion
 
-you need to Get Jquery 
+## you need to Get Jquery 
 
 $ npm install --save jquery
 
